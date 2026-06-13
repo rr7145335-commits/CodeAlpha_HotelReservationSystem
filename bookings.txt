@@ -1,0 +1,3 @@
+===== HOTEL BOOKING DETAILS =====
+Room No: 101 | Customer: 101 | Type: Standard | Paid Amount: ₹1500.0
+Room No: 102 | Customer: ruby | Type: Standard | Paid Amount: ₹1800.0
